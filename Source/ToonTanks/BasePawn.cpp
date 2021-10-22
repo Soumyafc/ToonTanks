@@ -6,6 +6,7 @@
 #include "Components/StaticMeshComponent.h"
 #include "Kismet/GameplayStatics.h"
 
+
 // Sets default values
 ABasePawn::ABasePawn()
 {
