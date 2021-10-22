@@ -33,5 +33,15 @@
 		"file": "D:\\\\Unreal_Projects\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.h",
 		"command": "cl.exe @\"D:\\Unreal_Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
 		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal_Projects\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Tower.cpp",
+		"command": "cl.exe @\"D:\\Unreal_Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal_Projects\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Tower.h",
+		"command": "cl.exe @\"D:\\Unreal_Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
 	}
 ]
