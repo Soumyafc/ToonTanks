@@ -2264,3 +2264,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-02.59.32:470][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2021.10.22-02.59.33:463][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
 [2021.10.22-02.59.34:476][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.10.22-03.00.57:970][622]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.10.22-03.00.58:984][622]LogSlate: Window 'Save Content' being destroyed
+[2021.10.22-03.00.59:017][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Unreal_Projects/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-03.00.59:036][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.22-03.00.59:050][622]LogSavePackage: Moving 'D:/Unreal_Projects/ToonTanks/Saved/MainAD8355364E9502A5B3DC0E830932D90B.tmp' to 'D:/Unreal_Projects/ToonTanks/Content/Maps/Main.umap'
+[2021.10.22-03.00.59:070][622]LogFileHelpers: Saving map 'Main' took 0.053
+[2021.10.22-03.00.59:087][622]AssetCheck: New page: Asset Save: Main
+[2021.10.22-03.00.59:087][622]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
