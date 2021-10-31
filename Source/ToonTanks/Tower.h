@@ -28,7 +28,11 @@ private:
 	float FireRange = 500.f;
 
 	FTimerHandle FireRateTimerHandle;
-	float FireTimer = 3.5f;
+
+    UPROPERTY(EditAnywhere,Category = "Timer")
+	float FireTimer = 2.f;
+
+
 	void CheckFireCondition();
 	bool InFireRange();
 };
