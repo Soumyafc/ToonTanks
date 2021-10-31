@@ -10,6 +10,16 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
 	},
 	{
+		"file": "D:\\\\Unreal_Projects\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Projectile.cpp",
+		"command": "cl.exe @\"D:\\Unreal_Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal_Projects\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Projectile.h",
+		"command": "cl.exe @\"D:\\Unreal_Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "D:\\\\Unreal_Projects\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Tank.cpp",
 		"command": "cl.exe @\"D:\\Unreal_Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
 		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
